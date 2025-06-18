@@ -32,6 +32,7 @@ const Todo = () => {
         <Text>Name: {item.name}</Text>
         <Text>Age: {item.age}</Text>
         <Text>Weight: {item.weight}</Text>
+        <Text>Hello</Text>
       </View>
     );
   };
